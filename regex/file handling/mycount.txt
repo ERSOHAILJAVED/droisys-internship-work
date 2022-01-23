@@ -1,0 +1,7 @@
+apple
+@
+mango
+@
+apple is red
+mango is green
+@
